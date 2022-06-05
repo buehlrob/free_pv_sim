@@ -1,1 +1,1 @@
-web: gunicorn free_pv_sim.wsgi
+web: gunicorn gettingstarted.wsgi
