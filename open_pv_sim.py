@@ -19,7 +19,7 @@ from pvlib.modelchain import ModelChain
 def lv95ToWgs84(x,y):
     """
     Convert swiss coordinates (LV03) to latitude, longitude values (WGS84)
-    https://www.swisstopo.admin.ch › ch1903wgs84_d
+    https://www.swisstopo.admin.ch › ch1903wgs84_dp
 
     Parameters
     ----------
